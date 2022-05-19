@@ -11,7 +11,7 @@ public class listajava02_01 {
 //Revisora / Diagramadora / Aluna: Jéssica Raissa Pessoa
 		
 Scanner teclado = new Scanner (System.in);
-
+//aaaaaaa
 /*01. Escrever um algoritmo que leia a idade da pessoa e imprima a mensagem "Você é maior de idade", caso ela tenha 18 anos ou mais,
  * ou "Você é menor de idade", caso contrário. */
 
