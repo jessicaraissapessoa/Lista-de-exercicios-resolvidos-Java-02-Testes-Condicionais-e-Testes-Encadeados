@@ -5,6 +5,11 @@
 
 ##
 
+- Organizador / Professor: Junio Figueiredo
+- Revisora / Diagramadora / Aluna: Jéssica Raissa Pessoa
+
+##
+
 #### Temas abordados:
 
 - System.out.println
@@ -22,12 +27,6 @@
 - if / else if / else
 - switch / case / default
 - break;
-
-
-##
-
-- Professor: Junio Figueiredo
-- Aluna: Jéssica Raissa
 
 ##
 
