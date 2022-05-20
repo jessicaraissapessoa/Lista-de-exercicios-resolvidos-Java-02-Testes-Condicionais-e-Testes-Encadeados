@@ -12,7 +12,7 @@ public class listajava02_13 {
 		
 Scanner teclado = new Scanner (System.in);
 
-/*13. Faça um algoritmo que receba um número e diga se este número está no intervalo entre 100 e 200.  */
+/*13. Faça um algoritmo que receba um número e diga se este número está no intervalo de 100 a 200.  */
 	
 
 	System.out.println("Informe um número: ");
