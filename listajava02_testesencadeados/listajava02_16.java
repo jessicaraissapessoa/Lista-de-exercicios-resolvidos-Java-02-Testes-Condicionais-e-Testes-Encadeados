@@ -12,7 +12,7 @@ public class listajava02_16 {
 		
 Scanner teclado = new Scanner (System.in);
 
-/*16. Ler o sexo de uma pessoa ('M' ou 'F') e exibindo a mensagem "Masculino" ou "Feminino".  */
+/*16. Ler o sexo de uma pessoa ('M' ou 'F') e exibir a mensagem "Masculino" ou "Feminino".  */
 	
 
 	System.out.println("Informe seu sexo digitando 'M' para masculino ou 'F' para feminino: ");

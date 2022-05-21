@@ -12,9 +12,9 @@ public class listajava02_14 {
 		
 Scanner teclado = new Scanner (System.in);
 
-/*14. Faça um algoritmo que leia dois números e identifique se são iguais ou diferentes.
- * Caso eles sejam iguais, imprima uma mensagem informando que são iguais.
- * Caso sejam diferentes, imprima uma mensagem informando que são diferentes e qual deles é o maior.  */
+/*14. Faça um algoritmo que leia dois números e identifique se são iguais ou diferentes entre si.
+ * Caso eles sejam iguais entre si, imprima uma mensagem informando que são iguais.
+ * Caso sejam diferentes entre, imprima uma mensagem informando que são diferentes e qual deles é o maior.  */
 	
 	System.out.println("Informe um número: ");
 	int n1 = teclado.nextInt();
@@ -39,7 +39,7 @@ if (n1 != n2)
 }
 else
 {
-	System.out.println(n1 + " e " + n2 + " são iguais.");
+	System.out.println(n1 + " e " + n2 + " são iguais entre si.");
 }
 	
 					

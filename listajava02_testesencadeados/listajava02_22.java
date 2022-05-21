@@ -14,15 +14,15 @@ public class listajava02_22 {
 Scanner teclado = new Scanner (System.in);
 DecimalFormat reais = new DecimalFormat ("R$ ##0.00");
 
-/*22. Um posto está vendendo combustíveis com a seguinte tabela de descontos:
+/*22. Um posto está vendendo combustíveis com a seguinte tabela de valores e descontos:
  * Álcool - Até 20 litros, desconto de 3% por litro
  * Álcool - Acima de 20 litros, desconto de 5% por litro
  * Gasolina - Até 20 litros, desconto de 4% por litro
  * Gasolina - Acima de 20 litros, desconto de 6% por litro
  * O preço do litro do álcool é R$ 2,90 e o preço do litro do gasolina é R$ 3,30 .
  * Escreva um algoritmo que leia o tipo de combustível (codificado da seguinte forma: 'A' para álcool e 'G' para gasolina) 
- * e o número de litros informados pelo cliente 
- * e, logo após, calcule e imprima o valor a ser pago pelo cliente. */
+ * e o número de litros a abastecer informados pelo cliente .
+ * Logo após, calcule e imprima o valor a ser pago pelo cliente. */
 	
 	System.out.println("Informe tipo de combustível ('A' para álcool ou 'G' para gasolina: ");
 	String tipo = teclado.next();

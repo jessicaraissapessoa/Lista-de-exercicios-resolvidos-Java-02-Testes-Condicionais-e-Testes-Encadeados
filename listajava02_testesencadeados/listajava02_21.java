@@ -16,7 +16,7 @@ Scanner teclado = new Scanner (System.in);
  * Esse programa possui uma rotina para verificar se um eleitor é obrigado ou não a votar.
  * Consideremos que todos os eleitores são alfabetizados e que o programa foi desenvolvido para a eleição de 2022.
  * O programa solicita do eleitor o ano de seu nascimento e, a partir desse dado, informa se ele é obrigado ou não a votar nessa eleição.
- * O algoritmo deverá calcular a idade do eleitor e verificar se sua idade está entre 18 e 70 anos. */
+ * O algoritmo deverá calcular a idade do eleitor e verificar se sua idade está no intervalo de 18 a 70 anos. */
 	
 	System.out.println("Informe o ano de seu nascimento: ");
 	int nascimento = teclado.nextInt();

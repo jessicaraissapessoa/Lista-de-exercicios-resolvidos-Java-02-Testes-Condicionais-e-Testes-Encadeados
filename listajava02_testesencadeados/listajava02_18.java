@@ -12,7 +12,7 @@ public class listajava02_18 {
 		
 Scanner teclado = new Scanner (System.in);
 
-/*18. Um casal possui 3 filhos: João, José, Maria. Faça um algoritmo para ler as idades dos filhos e exibir quem é o caçula.  */
+/*18. Um casal possui 3 filhos: João, José e Maria. Faça um algoritmo para ler as idades dos filhos e exibir quem é o caçula.  */
 	
 	System.out.println("Informe a idade de João: ");
 	int joao = teclado.nextInt();
