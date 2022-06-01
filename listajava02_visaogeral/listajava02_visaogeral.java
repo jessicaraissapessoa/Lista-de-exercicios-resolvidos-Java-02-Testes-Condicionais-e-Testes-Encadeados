@@ -15,7 +15,7 @@ Scanner teclado = new Scanner (System.in);
 /*
 
 
-//Testes Condicionaisa
+//Testes Condicionais
  
 
 	/* 01. Escrever um algoritmo que leia a idade da pessoa e imprima a mensagem "Você é maior de idade", caso ela tenha 18 anos ou mais,
